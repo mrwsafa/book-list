@@ -63,7 +63,6 @@ class BookContextProvider extends React.Component {
   
 }
 
-// console.log(myContext);
 
 export default BookContextProvider;
 
